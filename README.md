@@ -454,21 +454,80 @@ This page helps identify:
 
 ---
 
-# 📷 Dashboard Preview
+# 📸 Dashboard Preview
 
-## Page 1 — E-Commerce Sales & Customer Analytics
+## Page 1 – E-Commerce Sales & Customer Analytics
 
-![E-Commerce Sales & Customer Analytics](E-Commerce-Sales-Customer-Analytics Dashboard\Screenshots\page 1 - E-Commerce Sales & Customer Analytics.png)
+![E-Commerce Sales & Customer Analytics](E-Commerce-Sales-Customer-Analytics%20Dashboard/Screenshots/page%201%20-%20E-Commerce%20Sales%20%26%20Customer%20Analytics.png)
 
-## Page 2 — Customer Analysis & Segmentation
+This page provides an overall view of the e-commerce business, including:
 
-![Customer Analysis & Customer Segmentation](E-Commerce-Sales-Customer-Analytics Dashboard\Screenshots\page 2 -  Customer Analysis & Segmentation.png)
+- Total Orders
+- Total Customers
+- Total Revenue
+- Total Quantity Sold
+- Monthly Revenue Trend
+- Revenue by Country
+- Top 10 Products by Revenue
 
-## Page 3 — Product & Sales Insights
+---
 
-![Product & Sales Insights](E-Commerce-Sales-Customer-Analytics Dashboard\Screenshots\page 3 - Product & Sales Insights.png)
+## Page 2 – Customer Analysis & Segmentation
 
-> Make sure the image filenames above match the actual filenames in your `images` folder.
+![Customer Analysis & Segmentation](E-Commerce-Sales-Customer-Analytics%20Dashboard/Screenshots/page%202%20-%20Customer%20Analysis%20%26%20Segmentation.png)
+
+This page focuses on customer behavior and segmentation using RFM-based customer analysis.
+
+Key insights include:
+
+- Total Customers
+- Champions
+- At Risk Customers
+- Lost Customers
+- Customer Distribution by Segment
+- Average Revenue by Customer Segment
+- Customer Value vs Purchase Frequency
+- Customer Segment Performance
+- Segment, Recency, Frequency and Revenue analysis
+
+---
+
+## Page 3 – Product & Sales Insights
+
+![Product & Sales Insights](E-Commerce-Sales-Customer-Analytics%20Dashboard/Screenshots/page%203%20-%20Product%20%26%20Sales%20Insights.png)
+
+This page focuses on product performance and geographic sales contribution.
+
+Key insights include:
+
+- Total Revenue
+- Total Orders
+- Total Quantity Sold
+- Average Order Value
+- Top 10 Products by Revenue
+- Revenue by Country
+
+---
+
+## 📊 Dashboard Highlights
+
+The Power BI dashboard combines sales, customer and product analytics into an interactive three-page reporting solution.
+
+### Page 1 – Sales Overview
+
+Provides a high-level summary of business performance and identifies monthly revenue trends, major markets and top-performing products.
+
+### Page 2 – Customer Analytics
+
+Analyzes customer value and purchasing behavior through customer segmentation, helping identify Champions, Loyal Customers, Potential Loyalists, At Risk Customers and Lost Customers.
+
+### Page 3 – Product & Sales Insights
+
+Highlights the products contributing most to revenue and shows the geographic distribution of sales across countries.
+
+---
+
+> **Note:** The dashboard screenshots are stored in the `E-Commerce-Sales-Customer-Analytics Dashboard/Screenshots/` directory..
 
 ---
 
