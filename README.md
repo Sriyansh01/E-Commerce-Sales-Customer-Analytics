@@ -458,15 +458,15 @@ This page helps identify:
 
 ## Page 1 — E-Commerce Sales & Customer Analytics
 
-![E-Commerce Sales & Customer Analytics](images/dashboard_page1.png)
+![E-Commerce Sales & Customer Analytics](E-Commerce-Sales-Customer-Analytics Dashboard\Screenshots\page 1 - E-Commerce Sales & Customer Analytics.png)
 
 ## Page 2 — Customer Analysis & Segmentation
 
-![Customer Analysis & Customer Segmentation](images/dashboard_page2.png)
+![Customer Analysis & Customer Segmentation](E-Commerce-Sales-Customer-Analytics Dashboard\Screenshots\page 2 -  Customer Analysis & Segmentation.png)
 
 ## Page 3 — Product & Sales Insights
 
-![Product & Sales Insights](images/dashboard_page3.png)
+![Product & Sales Insights](E-Commerce-Sales-Customer-Analytics Dashboard\Screenshots\page 3 - Product & Sales Insights.png)
 
 > Make sure the image filenames above match the actual filenames in your `images` folder.
 
